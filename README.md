@@ -6,6 +6,6 @@
  [JS](js) <br />
 ***
 
-* [TEXT](tex)
+* [TEXT](text)
 
 * [MARKDOWN](markdown)
